@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Goodwill Sebaetse and I'm a programmer/windows form developer, from South Africa</h2>
+<h2 align="left">Hi 👋! My name is Goodwill Sebaetse and I'm a programmer/developer, from South Africa</h2>
 
 ###
 
